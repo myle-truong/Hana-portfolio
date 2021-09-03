@@ -100,7 +100,7 @@ document.getElementById('greeting').innerHTML = greeting;
 /*===== GSAP ANIMATION =====*/
 const words = [
    'I am Hana Truong.',
-   'A fresh Frontend developer.',
+   'A Junior Frontend developer.',
    'I am interested in playing with colors, shapes and coding. ',
    'I am a teamplayer & hardworker.',
    ,
